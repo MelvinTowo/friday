@@ -7,6 +7,7 @@ Literally Iron mans assistant but not as advanced *yet*
 ** Project structure ** 
 ------------------------
 
+```
 friday/
 ├── main.py                  # Entry point
 ├── core/
@@ -30,5 +31,6 @@ friday/
 ├── config/
 │   └── settings.yaml        # Model paths, preferences
 └── requirements.txt
+```
 
 
